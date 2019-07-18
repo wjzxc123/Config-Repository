@@ -4,7 +4,7 @@ spring:
 server:
   port: 8001
   servlet:
-    application-display-name: product-server
+    application-display-name: lvshaowei
 
 eureka:
   client:
