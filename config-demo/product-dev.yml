@@ -4,7 +4,7 @@ spring:
 server:
   port: 8001
   servlet:
-    application-display-name: randog123456
+    application-display-name: randog88888888
 
 eureka:
   client:
