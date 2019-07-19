@@ -11,4 +11,4 @@ zuul:
   routes:
     producer:
       path: /product/**
-      serviceId:  product-service
+      serviceId:  product-server
